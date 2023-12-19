@@ -1,0 +1,28 @@
+C:\Users\roddi\source\repos\Advent of Code 2023\Advent of Code 2023\bin\Debug\net8.0\Advent of Code 2023.exe
+C:\Users\roddi\source\repos\Advent of Code 2023\Advent of Code 2023\bin\Debug\net8.0\Advent of Code 2023.deps.json
+C:\Users\roddi\source\repos\Advent of Code 2023\Advent of Code 2023\bin\Debug\net8.0\Advent of Code 2023.runtimeconfig.json
+C:\Users\roddi\source\repos\Advent of Code 2023\Advent of Code 2023\bin\Debug\net8.0\Advent of Code 2023.dll
+C:\Users\roddi\source\repos\Advent of Code 2023\Advent of Code 2023\bin\Debug\net8.0\Advent of Code 2023.pdb
+C:\Users\roddi\source\repos\Advent of Code 2023\Advent of Code 2023\obj\Debug\net8.0\Advent of Code 2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roddi\source\repos\Advent of Code 2023\Advent of Code 2023\obj\Debug\net8.0\Advent of Code 2023.AssemblyInfoInputs.cache
+C:\Users\roddi\source\repos\Advent of Code 2023\Advent of Code 2023\obj\Debug\net8.0\Advent of Code 2023.AssemblyInfo.cs
+C:\Users\roddi\source\repos\Advent of Code 2023\Advent of Code 2023\obj\Debug\net8.0\Advent of Code 2023.csproj.CoreCompileInputs.cache
+C:\Users\roddi\source\repos\Advent of Code 2023\Advent of Code 2023\obj\Debug\net8.0\Advent of Code 2023.dll
+C:\Users\roddi\source\repos\Advent of Code 2023\Advent of Code 2023\obj\Debug\net8.0\refint\Advent of Code 2023.dll
+C:\Users\roddi\source\repos\Advent of Code 2023\Advent of Code 2023\obj\Debug\net8.0\Advent of Code 2023.pdb
+C:\Users\roddi\source\repos\Advent of Code 2023\Advent of Code 2023\obj\Debug\net8.0\Advent of Code 2023.genruntimeconfig.cache
+C:\Users\roddi\source\repos\Advent of Code 2023\Advent of Code 2023\obj\Debug\net8.0\ref\Advent of Code 2023.dll
+C:\Users\roddi\OneDrive\Documents\GitHub\Advent-of-Code-2023\Advent of Code 2023\bin\Debug\net8.0\Advent of Code 2023.exe
+C:\Users\roddi\OneDrive\Documents\GitHub\Advent-of-Code-2023\Advent of Code 2023\bin\Debug\net8.0\Advent of Code 2023.deps.json
+C:\Users\roddi\OneDrive\Documents\GitHub\Advent-of-Code-2023\Advent of Code 2023\bin\Debug\net8.0\Advent of Code 2023.runtimeconfig.json
+C:\Users\roddi\OneDrive\Documents\GitHub\Advent-of-Code-2023\Advent of Code 2023\bin\Debug\net8.0\Advent of Code 2023.dll
+C:\Users\roddi\OneDrive\Documents\GitHub\Advent-of-Code-2023\Advent of Code 2023\bin\Debug\net8.0\Advent of Code 2023.pdb
+C:\Users\roddi\OneDrive\Documents\GitHub\Advent-of-Code-2023\Advent of Code 2023\obj\Debug\net8.0\Advent of Code 2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roddi\OneDrive\Documents\GitHub\Advent-of-Code-2023\Advent of Code 2023\obj\Debug\net8.0\Advent of Code 2023.AssemblyInfoInputs.cache
+C:\Users\roddi\OneDrive\Documents\GitHub\Advent-of-Code-2023\Advent of Code 2023\obj\Debug\net8.0\Advent of Code 2023.AssemblyInfo.cs
+C:\Users\roddi\OneDrive\Documents\GitHub\Advent-of-Code-2023\Advent of Code 2023\obj\Debug\net8.0\Advent of Code 2023.csproj.CoreCompileInputs.cache
+C:\Users\roddi\OneDrive\Documents\GitHub\Advent-of-Code-2023\Advent of Code 2023\obj\Debug\net8.0\Advent of Code 2023.dll
+C:\Users\roddi\OneDrive\Documents\GitHub\Advent-of-Code-2023\Advent of Code 2023\obj\Debug\net8.0\refint\Advent of Code 2023.dll
+C:\Users\roddi\OneDrive\Documents\GitHub\Advent-of-Code-2023\Advent of Code 2023\obj\Debug\net8.0\Advent of Code 2023.pdb
+C:\Users\roddi\OneDrive\Documents\GitHub\Advent-of-Code-2023\Advent of Code 2023\obj\Debug\net8.0\Advent of Code 2023.genruntimeconfig.cache
+C:\Users\roddi\OneDrive\Documents\GitHub\Advent-of-Code-2023\Advent of Code 2023\obj\Debug\net8.0\ref\Advent of Code 2023.dll
