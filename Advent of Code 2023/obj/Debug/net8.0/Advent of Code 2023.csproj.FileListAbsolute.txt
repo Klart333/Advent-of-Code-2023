@@ -26,3 +26,4 @@ C:\Users\roddi\OneDrive\Documents\GitHub\Advent-of-Code-2023\Advent of Code 2023
 C:\Users\roddi\OneDrive\Documents\GitHub\Advent-of-Code-2023\Advent of Code 2023\obj\Debug\net8.0\Advent of Code 2023.pdb
 C:\Users\roddi\OneDrive\Documents\GitHub\Advent-of-Code-2023\Advent of Code 2023\obj\Debug\net8.0\Advent of Code 2023.genruntimeconfig.cache
 C:\Users\roddi\OneDrive\Documents\GitHub\Advent-of-Code-2023\Advent of Code 2023\obj\Debug\net8.0\ref\Advent of Code 2023.dll
+C:\Users\roddi\OneDrive\Documents\GitHub\Advent-of-Code-2023\Advent of Code 2023\obj\Debug\net8.0\Advent of Code 2023.sourcelink.json
